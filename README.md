@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph/file/22535f8051a58af113586.jpg" width="5000"></a></p> 
+<p align="center"><a href="https://t.me/fridayot"><img src="https://telegra.ph/file/5d293334805cc47f5f226.jpg" width="5000"></a></p> 
 <h1 align="center"><b>FRIDAY-USERBOT 🇮🇳 </b></h1>
 <h4 align="center">A Powerful, Smart And Simple Userbot In Telethon. Powered By NoSpam+</h4>
 
@@ -101,13 +101,4 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 # Credits
 
-* [@Chsaiujwal](https://telegram.dog/Chsaiujwal)
-* [@Meisnub](https://telegram.dog/MeisNub)
-* [@InukaAsith](https://telegram.dog/InukaAsith)
-* [@Midhun_xD](https://telegram.dog/Midhun_xD)
-* [@SpecHide](https://telegram.dog/SpecHide)
-* [@S_n_a_p_s](https://telegram.dog/s_n_a_p_s)
-* [@RaphielScape](https://github.com/raphielscape)
-* [@Nitin1818](https://github.com/Nitin1818)
-* [@PureIndiaLover](https://telegram.dog/PureIndiaLover)
-* [@BLUE-DEVIL1134](https://github.com/BLUE-DEVIL1134)
+[Friday userbot](https://github.com/DevsExpo/FridayUserbot)
