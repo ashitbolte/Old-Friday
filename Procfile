@@ -1,1 +1,1 @@
-fridaybot: python -m fridaybot
+fridaybot: python -m start.sh
