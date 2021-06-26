@@ -1,1 +1,1 @@
-fridayub: python -m fridayub
+fridaybot: python -m fridaybot
