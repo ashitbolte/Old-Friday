@@ -1,1 +1,1 @@
-python3 -m fridaybot
+python3 -m ./start.sh
